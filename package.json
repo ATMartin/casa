@@ -24,7 +24,7 @@
     "datatables.net-dt": "^1.12.1",
     "esbuild": "^0.14.54",
     "faker": "^5.5.3",
-    "jquery": "^3.6.0",
+    "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
     "sass": "^1.54.3",
     "select2": "^4.0.13",
