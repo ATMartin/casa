@@ -5048,10 +5048,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-sweetalert2@^11.3.5:
-  version "11.4.14"
-  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-11.4.14.tgz#b7c7efbf6672aa56696ba68d7ac141798b961525"
-  integrity sha512-Dh4XqfUSpCwhRsGM5zZFbtBRHujjcaf98DjVKXEs0ER4E/Zao0OtDHZRRQqvT9xxY7RA8WsiZ6FHJbyW+BBbDw==
+sweetalert2@^11.15.1:
+  version "11.15.1"
+  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-11.15.1.tgz#2ad9e9d582cf0ea59149efbc082ac72ed3f37d56"
+  integrity sha512-DAE5LEKTarAdperqcLWCoFiwuoh0tdmOYhBK727a0Spj+lDJIQesdeS/Ya2Ek/xD37nFpjQujbp3v4HFmFw+tw==
 
 symbol-tree@^3.2.4:
   version "3.2.4"
