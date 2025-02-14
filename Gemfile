@@ -19,7 +19,7 @@ gem "twilio-ruby" # twilio helper functions
 gem "draper" # adds decorators for cleaner presentation logic
 gem "faker" # creates realistic seed data, valuable for staging and demos
 gem "filterrific" # filtering and sorting of models
-gem "image_processing", "~> 1.12" # Set of higher-level helper methods for image processing.
+gem "image_processing", "~> 1.14" # Set of higher-level helper methods for image processing.
 gem "jbuilder" # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem "jsbundling-rails"
 gem "lograge" # log less so heroku papertrail quits rate limiting our logs
